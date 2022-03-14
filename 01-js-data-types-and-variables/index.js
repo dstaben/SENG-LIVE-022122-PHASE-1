@@ -8,6 +8,8 @@
 
 // What is a variable?
 
+
+
 // How can a variable be declared
 
 // What is the difference between let and const
